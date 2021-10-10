@@ -1,7 +1,6 @@
 ### Hi there 👋, my name's Rodrigo 
 #### Front End Developer
-![Front End Developer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fahorasomos.izertis.com%2Fsolidgear%2Fcontrola-estilo-codigo-de-equipo-eslint-javascript%2F&psig=AOvVaw05-pYfV19aclkTFIophLfR&ust=1633982466605000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIivzprRwPMCFQAAAAAdAAAAABAD)
-
+![Front End Developer](https://www.xtrafondos.com/wallpapers/comer-dormir-codificar-repetir-5487.jpgAdAAAAABAJ)
 
 Skills: REACT / JS / TYPESCRIPT / HTML / CSS / SASS
 
