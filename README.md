@@ -1,6 +1,6 @@
 ### Hi there 👋, my name's Rodrigo 
 #### Front End Developer
-![Front End Developer](https://www.xtrafondos.com/wallpapers/comer-dormir-codificar-repetir-5487.jpg)
+![Front End Developer](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 Skills: REACT / JS / TYPESCRIPT / HTML / CSS / SASS
 
